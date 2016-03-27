@@ -9,12 +9,19 @@
 		"ColorPick",
 		"Emmet",
 		"Git",
+		"GitGutter",
+		"GitSyntaxes",
 		"HTML-CSS-JS Prettify",
 		"JSTL syntax",
 		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
 		"SCSS",
 		"SideBarEnhancements",
+		"Syntax Highlighting for Sass",
 		"Terminal",
+		"Theme - Spacegray",
 		"ThemeTweaker"
 	]
 }

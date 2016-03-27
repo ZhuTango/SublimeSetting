@@ -1,7 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"color_scheme": "Packages/Predawn/predawn-gf-markdown.tmTheme",
+	"font_size": 11,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	 
+ 	"theme": "Material-Theme-Darker.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+
+
 }
