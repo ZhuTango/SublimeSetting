@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"ColorPick",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"SideBarEnhancements",
+		"Terminal",
+		"ThemeTweaker"
+	]
+}
